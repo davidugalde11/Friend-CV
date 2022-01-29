@@ -1,0 +1,64 @@
+body {
+  background-color: #FDEBF7;
+}
+
+hr {
+  height: 1px;
+  background-color: white;
+  border-style: dotted;
+  border-color: pink;
+
+}
+
+p {
+  color: #FFADF0;
+}
+
+h1 {
+  color: #FFADF0;
+}
+
+.education {
+  color: #FFADF0;
+}
+
+.work {
+  color: #FFADF0;
+}
+
+.hobbies {
+  color: #FFADF0;
+}
+.Kelly:hover {
+  background: url(/images/dog.png);
+  background-color: white;
+}
+.contact {
+  color: #FFADF0;
+}
+
+.facebook {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  position: absolute;
+  top: 60px;
+  left: 10px;
+
+}
+.youtube {
+  height: 50px;
+  width: 50px;
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.linkedin {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  position: absolute;
+  top: 60px;
+  left: 110px;
+}
